@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std ;
+
+int main() {
+	// This is a comment
+	string = "KiplelIsaac"
+    	gradient = 2 / 5 * m * x + c ;
+	cout << gradient ;
+	if ( a == b )
+		cout << a << "same" << b ;
+}

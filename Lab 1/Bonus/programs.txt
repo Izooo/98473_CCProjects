@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    	gradient = 2.5 * m * x + c;
+	sum = 0;
+	if ( a == b ){
+		sum = a+b;
+	}
+}
